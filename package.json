@@ -1,0 +1,1 @@
+{ "name": "geary", "dependencies": {"twilio": "0.4.0"}, "version": "0.0.1"}
