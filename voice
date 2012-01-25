@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <Response>
-    <Say>Hello Coco Hello Coco Hello Coco</Say>
+    <Gather finishOnKey="#" action="/pin" method="GET">
+        <Say>Hi. Please enter your access code.</Say>
+    </Gather>
+    <Say>Sorry I didn't hear anything</Say>
 </Response>
